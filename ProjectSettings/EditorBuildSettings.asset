@@ -13,7 +13,7 @@ EditorBuildSettings:
     guid: 89eed5f26fc407e47813329574c7621d
   - enabled: 1
     path: Assets/Scenes/CustomCampusTour.unity
-    guid: 53c74d74711f0ed4795978a616558d69
+    guid: ff034657fec7d5f448e1274efdccf704
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 91427fdfb1ed5874682f40c1964e2aeb,
       type: 2}

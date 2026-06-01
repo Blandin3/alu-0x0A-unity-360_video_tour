@@ -3,6 +3,11 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuController : MonoBehaviour
 {
+    public void LoadMainMenu()
+    {
+        SceneManager.LoadScene("MainMenuScene");
+    }
+
     public void LoadIntranetTour()
     {
         SceneManager.LoadScene("IntranetTour");
