@@ -225,5 +225,6 @@ MainMenuScene
 ---
 
 ## Authors
+- **Blandine Iradukunda** — 
 
 Developed as part of the **ALU 0x0A Unity 360 Video Tour** project.
